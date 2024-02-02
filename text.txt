@@ -1,0 +1,128 @@
+commit 2ba61d714013a34c995f4adeaae902ae0027c384
+Merge: ae316f0 956145b
+Author: iskander17Q <80171445+iskander17Q@users.noreply.github.com>
+Date:   Fri Feb 2 14:11:39 2024 +0200
+
+    Merge branch 'Lua'
+
+commit ae316f00d395289da4d8e9066cb695be5f047c52
+Merge: 174cfe1 379b802
+Author: iskander17Q <80171445+iskander17Q@users.noreply.github.com>
+Date:   Fri Feb 2 14:11:32 2024 +0200
+
+    Merge branch 'Julia'
+
+commit 174cfe1b4ff33edc9858cdc2fdace79f03f01fbb
+Merge: 337b321 c9a6c9e
+Author: iskander17Q <80171445+iskander17Q@users.noreply.github.com>
+Date:   Fri Feb 2 14:11:21 2024 +0200
+
+    Merge branch 'Ruby'
+
+commit 337b321356821a2184d5d76232d8b3fec33f3a80
+Merge: 05d01c7 5f2d93e
+Author: iskander17Q <80171445+iskander17Q@users.noreply.github.com>
+Date:   Fri Feb 2 14:11:15 2024 +0200
+
+    Merge branch 'Rust'
+
+commit 05d01c7e6c326e37273d0f37d918ef9a75a838da
+Merge: 4f97b41 22bc8f6
+Author: iskander17Q <80171445+iskander17Q@users.noreply.github.com>
+Date:   Fri Feb 2 14:11:08 2024 +0200
+
+    Merge branch 'Pascal'
+
+commit 4f97b41663a94e3bf68963a0a0d08899827e9578
+Merge: 9543b1d 12195b6
+Author: iskander17Q <80171445+iskander17Q@users.noreply.github.com>
+Date:   Fri Feb 2 14:11:00 2024 +0200
+
+    Merge branch 'Python'
+
+commit 9543b1d3e9a877bc6f265d9c451d1b6b42e41dff
+Merge: 3af1725 83b44aa
+Author: iskander17Q <80171445+iskander17Q@users.noreply.github.com>
+Date:   Fri Feb 2 14:10:48 2024 +0200
+
+    Merge branch 'C++'
+
+commit 3af1725e44dcb98e60af7d1bd55c16c7d60f27de
+Merge: 70611ea 64f24d0
+Author: iskander17Q <80171445+iskander17Q@users.noreply.github.com>
+Date:   Fri Feb 2 14:10:28 2024 +0200
+
+    Merge branch 'JS'
+
+commit 70611eaeea6b990d6d0c631907819539d473ad37
+Merge: 2310643 935c78c
+Author: iskander17Q <80171445+iskander17Q@users.noreply.github.com>
+Date:   Fri Feb 2 14:09:51 2024 +0200
+
+    Merge branch 'C'
+
+commit 379b802d4a2ed35de9c9b5e947e23501cf28cd5b
+Author: iskander17Q <80171445+iskander17Q@users.noreply.github.com>
+Date:   Fri Feb 2 14:08:51 2024 +0200
+
+    Add julia
+
+commit 2310643d6af3fdae93e2a8864ab7ac7abadafea6
+Author: iskander17Q <80171445+iskander17Q@users.noreply.github.com>
+Date:   Fri Feb 2 14:07:55 2024 +0200
+
+    Add C#
+
+commit 22bc8f68d798a8119e2d9a3a8e8ee46ab36c209c
+Author: iskander17Q <80171445+iskander17Q@users.noreply.github.com>
+Date:   Fri Feb 2 14:07:29 2024 +0200
+
+    Add pascal
+
+commit 956145bda0d916d735c3a379b77907f579ef6dd5
+Author: iskander17Q <80171445+iskander17Q@users.noreply.github.com>
+Date:   Fri Feb 2 14:07:07 2024 +0200
+
+    Add lua
+
+commit c9a6c9e53b0270e8604dd47736a1bba36a311285
+Author: iskander17Q <80171445+iskander17Q@users.noreply.github.com>
+Date:   Fri Feb 2 14:06:43 2024 +0200
+
+    Add ruby
+
+commit 5f2d93e17ebfc28cddd7a05886840129c462fd93
+Author: iskander17Q <80171445+iskander17Q@users.noreply.github.com>
+Date:   Fri Feb 2 14:06:22 2024 +0200
+
+    Add rust
+
+commit 12195b6976bd7d51d9a5c9d071fb5e12358da307
+Author: iskander17Q <80171445+iskander17Q@users.noreply.github.com>
+Date:   Fri Feb 2 14:06:04 2024 +0200
+
+    Add python
+
+commit 64f24d0a533bf525df6f24331f8df90913f564eb
+Author: iskander17Q <80171445+iskander17Q@users.noreply.github.com>
+Date:   Fri Feb 2 14:05:28 2024 +0200
+
+    Add js
+
+commit 83b44aa62bae1fe6fd2f16058971a0fe1d3d487c
+Author: iskander17Q <80171445+iskander17Q@users.noreply.github.com>
+Date:   Fri Feb 2 14:04:58 2024 +0200
+
+    Add C++
+
+commit 935c78c33904306fdb0e78d82f46bfae1f606f0a
+Author: iskander17Q <80171445+iskander17Q@users.noreply.github.com>
+Date:   Fri Feb 2 14:04:18 2024 +0200
+
+    C++ add
+
+commit 648db0d39b9be95457a0bbb8accc2edc459f50a3
+Author: iskander17Q <80171445+iskander17Q@users.noreply.github.com>
+Date:   Fri Feb 2 14:02:30 2024 +0200
+
+    First init
